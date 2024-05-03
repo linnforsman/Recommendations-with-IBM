@@ -15,7 +15,7 @@ In this project, we'll analyze users' interactions with articles on the [IBM Wat
 There are different approaches to the recommendation system, and 4 of them have been implemented in this project.
 1. Rank Based Recommendation
 2. User-User Based Collaborative Filtering
-3. Content-Based Recommendation
+3. Content-based recommendation
 4. Matrix Factorization
 
 ## File Descriptions
